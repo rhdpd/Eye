@@ -3,4 +3,4 @@
 
 ### You can enjoy this animation at <a href="https://rhdpd.github.io/Eye/"> Eyes </a>
 
-Future state: I would like to add a face to these eyes, with animated lips with sound effect.
+🔮 Future ideas - I would like to add a face to these eyes, with animated lips with sound effect.
